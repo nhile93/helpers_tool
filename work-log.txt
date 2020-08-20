@@ -1,0 +1,6 @@
+- da import bootstrap npm nhung chua dung
+- co webpack nhung chua biet dung
+
+- npm install node-sass
+- npm install redux-thunk
+- npm install redux
